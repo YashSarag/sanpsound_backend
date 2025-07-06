@@ -1,5 +1,4 @@
 fastapi
 uvicorn
-faster-whisper
 pydub
-ffmpeg-python
+faster-whisper
